@@ -70,20 +70,29 @@ https://play.google.com/store/apps/details?id=net.richme.lifebook&hl=zh-TW
 
 🎈無國界地球村
 https://safechat.com/channel/2785859430320969543
+
 https://www.facebook.com/BorderlessVillage
 
 🎁聯盟、相關發表站
 https://www.infoq.cn/u/richme/publish
+
 https://matters.town/@ingotw
+
 https://vocus.cc/salon/richme
+
 https://discord.com/channels/966496130424766517/966496131716644967
+
 https://ithelp.ithome.com.tw/articles/10314177
+
 https://lifebooktips.wordpress.com/「厘米智慧」/
+
 https://enews.url.com.tw/enews/9764
 
 ❤️‍💥技術參考
 https://github.com/AnywhereSoftware/B4X-Pleroma
+
 https://www.b4x.com/android/forum/threads/b4x-b4x-pleroma-open-source-client-for-mastodon-pleroma-social-networks.124214/#content
+
 https://github.com/bitcoin-core/bitcoincore.org
 
 
